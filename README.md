@@ -1,6 +1,6 @@
-# **Realme C3 / Narzo 10A — OrangeFox Recovery** 
+# **Realme 20A / 30 — OrangeFox Recovery** 
 
-**Codename:** RMX2020 / RMX2027 **Variant:** RUI2 BASED
+**Codename:** RMX2191 / 2193 / 3171 **Variant:** RUI2 BASED
 
 ---
 
