@@ -25,8 +25,8 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/recovery/root,recovery/root)
 
-PRODUCT_DEVICE := RMX2020
-PRODUCT_NAME := twrp_RMX2020
+PRODUCT_DEVICE := RMX2193
+PRODUCT_NAME := twrp_RMX2193
 PRODUCT_BRAND := realme
 PRODUCT_MODEL := realme Narzo 20 & 30A
 PRODUCT_MANUFACTURER := realme
