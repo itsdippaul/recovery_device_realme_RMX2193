@@ -18,13 +18,13 @@
 # 	Please maintain this if you use this script or any part of it
 #
 # ofrp device
-FDEVICE="RMX2020"
+FDEVICE="RMX2193"
 #set -o xtrace
-FOX_BUILD_DEVICE="RMX2020"
+FOX_BUILD_DEVICE="RMX2193"
 # additional orangefox zip installer device
-export TARGET_DEVICE_ALT="RMX2020, RMX2027"
+export TARGET_DEVICE_ALT="RMX2191, RMX3171"
 # additional roms zip installer support
-export FOX_TARGET_DEVICES="RMX2020,RMX2027"
+export FOX_TARGET_DEVICES="RMX2191,RMX3171"
 # Initial Build Setup
 export LC_ALL="C"
 export ALLOW_MISSING_DEPENDENCIES=true
