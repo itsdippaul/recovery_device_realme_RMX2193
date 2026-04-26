@@ -22,9 +22,9 @@ FDEVICE="RMX2193"
 #set -o xtrace
 FOX_BUILD_DEVICE="RMX2193"
 # additional orangefox zip installer device
-export TARGET_DEVICE_ALT="RMX2191, RMX3171"
+export TARGET_DEVICE_ALT="RMX2020, RMX2027, RMX2191, RMX3171"
 # additional roms zip installer support
-export FOX_TARGET_DEVICES="RMX2191,RMX3171"
+export FOX_TARGET_DEVICES="RMX2020,RMX2027,RMX2191,RMX3171"
 # Initial Build Setup
 export LC_ALL="C"
 export ALLOW_MISSING_DEPENDENCIES=true
